@@ -1,0 +1,22 @@
+Minty Marvel|Boots player's stamina by 10 units|stamina|10|magical|10
+Frosty Fizz|Boosts player's stamina by 10 units|stamina|10|magical|12
+Berry Blast|Boosts player's stamina by 15 units|stamina|15|magical|15
+Coconut Comet|Boosts player's stamina by 15 units|stamina|15|magical|17
+Pistachio Paradise|Boosts player's stamina by 20 units|stamina|20|magical|20
+Dazzling Dew|Boosts player's stamina by 20 units|stamina|20|magical|22
+Butterscotch Blizzard|Decreases opponents stamina by 10 units(mild)|stamina|-10|poison|15
+Nutty Nebula|Decreases opponents stamina by 10 units(mild)|stamina|-10|poison|17
+Chocolate Cascade|Decreases opponents stamina by 15 units(moderate)|stamina|-15|poison|20
+Cotton Candy Canyon|Decreases opponents stamina by 15 units(moderate)|stamina|-15|poison|22
+Toxic Taffy|Decreases opponents stamina by 20 units(strong)|stamina|-20|poison|25
+Raspberry Ripple|Decreases opponents stamina by 20 units(strong)|stamina|-20|poison|27
+Bubblegum Burst|Protects against mild poison candies|other|1|immunity|15
+Peanut Prance|Protects against mild poison candies|other|1|immunity|17
+Honeydew Harmony|Protects against all mild and moderate poison candies|other|2|immunity|20
+Mochaccino Meteor|Protects against all mild and moderate poison candies|other|2|immunity|22
+Caramel Comet|Protects against all poison candies|other|3|immunity|25
+Taffy Twilight|Protects against all poison candies|other|3|immunity|27
+Sugar Swirl|Holds a player in place for 1 turn|other|1|gummy|5
+Marshmallow Mist|Holds a player in place for 1 turn|other|1|gummy|7
+Licorice Lagoon|Holds a player in place for 2 turns|other|2|gummy|10
+Tangy Tornado|Holds a player in place for 2 turns|other|2|gummy|12

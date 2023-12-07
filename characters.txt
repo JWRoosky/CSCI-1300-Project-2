@@ -1,0 +1,6 @@
+Jellybean Jane|125|75|Frosty Fizz,Toxic Taffy,Caramel Comet,Minty Marvel,Marshmallow Mist,Butterscotch Blizzard,Peanut Prance,Bubblegum Burst,Cotton Candy Canyon
+Gummy Gus|150|50|Honeydew Harmony,Caramel Comet,Taffy Twilight,Berry Blast,Frosty Fizz,Minty Marvel,Sugar Swirl,Butterscotch Blizzard,Nutty Nebula
+Taffy Timmy|75|150|Tangy Tornado,Licorice Lagoon,Marshmallow Mist,Sugar Swirl,Honeydew Harmony,Mochaccino Meteor,Chocolate Cascade,Pistachio Paradise,Frosty Fizz
+Peppermint Patty|175|25|Dazzling Dew,Pistachio Paradise,Coconut Comet,Raspberry Ripple,Toxic Taffy,Cotton Candy Canyon,Berry Blast,Chocolate Cascade,Frosty Fizz
+Malvorenthrax the Shadowweaver, Lord of Eternal Darkness and Harbinger of Despair|1000|1000|
+Michael|100|100|Berry Blast,Coconut Comet,Chocolate Cascade,Cotton Candy Canyon,Honeydew Harmony,Mochaccino Meteor,Marshmallow Mist,Licorice Lagoon,Tangy Tornado
